@@ -1,5 +1,0 @@
-Added Component: Designator=BAT?(PCBComponent_1)
-Add component. Clean all parameters for all variants
-Added Pin To Net: NetName=VCC Pin=BAT?-1
-Added Pin To Net: NetName=VCC Pin=BAT?-1
-Added Member To Class: ClassName=Sheet1 Member=Component BAT? BAT2032

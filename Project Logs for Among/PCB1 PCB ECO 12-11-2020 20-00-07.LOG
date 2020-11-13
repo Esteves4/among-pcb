@@ -1,8 +1,0 @@
-Added Component: Designator=ST1(STLink)
-Add component. Clean all parameters for all variants
-Added Pin To Net: NetName=GND Pin=ST1-1
-Added Pin To Net: NetName=VCC Pin=ST1-2
-Added Pin To Net: NetName=SWDIO Pin=ST1-3
-Added Pin To Net: NetName=SWCLK Pin=ST1-4
-Added Member To Class: ClassName=Sheet1 Member=Component ST1 ST_1
-Added Room: Name=Sheet1
