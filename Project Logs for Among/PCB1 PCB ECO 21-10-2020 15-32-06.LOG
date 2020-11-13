@@ -1,0 +1,11 @@
+Added Component: Designator=U(SOP65P640X120-20N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "497-14044-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.vn/product-detail/en/stmicroelectronics/STM32F030F4P6/497-14044-5-ND/4357517?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STM32F030F4P6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TSSOP-20 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STM32F030F4P6/STMicroelectronics/view-part/46809/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

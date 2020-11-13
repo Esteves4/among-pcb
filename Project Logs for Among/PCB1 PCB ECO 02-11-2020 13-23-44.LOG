@@ -1,0 +1,90 @@
+Added Component: Designator=D?(LEDC1608X65N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTW-C191TLA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTW-C191TLA/Lite-On/view-part/538855/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(MY_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "160-1457-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/lite-on-inc/LTST-C230KRKT/160-1457-1-ND/386856?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C230KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C230KRKT/Lite-On%20Inc./view-part/358143/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(MY_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMLMN2WB1CW1C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SMLMN2WB1CW1C/Rohm/view-part/3217279/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1508X55N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RMCF0603ZT0R00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1508 Stackpole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RMCF0603ZT0R00/Stackpole%20Electronics%20Inc/view-part/3968849/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=106114"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=106114"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0805JR-070RL/Yageo/view-part/106114/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC3116X65N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC1206JR-0722RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3116 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/RC1206JR-0722RL/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC1206JR-0722RL/Yageo/view-part/615366/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U(SOP65P640X120-20N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "497-14044-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.vn/product-detail/en/stmicroelectronics/STM32F030F4P6/497-14044-5-ND/4357517?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STM32F030F4P6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TSSOP-20 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STM32F030F4P6/STMicroelectronics/view-part/46809/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D?-C
+Added Pin To Net: NetName=GND Pin=D?-C
+Added Pin To Net: NetName=GND Pin=D?-C
+Added Pin To Net: NetName=GND Pin=U-1
+Added Pin To Net: NetName=GND Pin=U-15
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD?_A Pin=D?-A
+Added Pin To Net: NetName=NetD?_A Pin=R?-2
+Added Net: Name=NetD?_A
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U-17
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=VCC Pin=U-4
+Added Pin To Net: NetName=VCC Pin=U-5
+Added Pin To Net: NetName=VCC Pin=U-16
+Added Net: Name=VCC
+Added Member To Class: ClassName=Sheet1 Member=Component D? D0603
+Added Member To Class: ClassName=Sheet1 Member=Component D? D1206
+Added Member To Class: ClassName=Sheet1 Member=Component D? D0805
+Added Member To Class: ClassName=Sheet1 Member=Component R? R0603
+Added Member To Class: ClassName=Sheet1 Member=Component R? R0805
+Added Member To Class: ClassName=Sheet1 Member=Component R? R1206
+Added Member To Class: ClassName=Sheet1 Member=Component U STM32F030F4P6
+Added Room: Name=Sheet1

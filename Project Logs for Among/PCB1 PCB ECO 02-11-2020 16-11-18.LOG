@@ -1,0 +1,37 @@
+Change Component Designator: OldDesignator=D-0603 NewDesignator=D1
+Change Component Designator: OldDesignator=D-0805 NewDesignator=D2
+Change Component Designator: OldDesignator=D-1206 NewDesignator=D3
+Change Component Designator: OldDesignator=R-0603 NewDesignator=R1
+Change Component Designator: OldDesignator=R-0805 NewDesignator=R2
+Change Component Designator: OldDesignator=R-1206 NewDesignator=R3
+Added Component: Designator=BAT?(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P?(HDR1X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=BAT?-1
+Added Pin To Net: NetName=VCC Pin=BAT?-1
+Added Member To Class: ClassName=Sheet1 Member=Component BAT? BAT2032
+Added Member To Class: ClassName=Sheet1 Member=Component D3 D1206
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 5
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 5
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 5
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 5
+Added Room: Name=Sheet1
